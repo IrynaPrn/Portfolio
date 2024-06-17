@@ -13,6 +13,4 @@
 
  - <b>[Certificate](https://www.dropbox.com/scl/fo/ipjfrsdy0frfhh9pcktpq/ALGe5-FXVYc0dt8HjX2QB7A?rlkey=0u1b30vaw5l2tbapgj9nknado&st=ldwy0r53&dl=0)</b>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on [PEEI](https://peei.org.ua/uk)
+🔭 I’m currently working on [PEEI](https://peei.org.ua/uk)
