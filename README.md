@@ -4,9 +4,8 @@
 <h2>👨‍💻 My Resume:</h2>
 
 - <b>[Resume](https://drive.google.com/file/d/1iXScnxJYOPUYUerh8MW2bMUN--yA4suG/view?usp=drive_link)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
+- <b>Test Documentation</b>
+  - [Check-lists](https://docs.google.com/spreadsheets/d/18DraS8p16w551UYT0me9VVrR7kzEP51EAYMaUDTHrSE/edit?usp=drive_link) <b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
