@@ -3,7 +3,7 @@
 
 <h2>👨‍💻 My Resume:</h2>
 
-- <b>[Resume](https://drive.google.com/file/d/1iXScnxJYOPUYUerh8MW2bMUN--yA4suG/view?usp=drive_link)
+- <b>[Resume](https://drive.google.com/file/d/1Ld6HGYc1zLFodxpCsO1AFrDLMpJQQpbE/view?usp=sharing)
 - <b>Test Documentation</b>
   - [Check-lists](https://docs.google.com/spreadsheets/d/18DraS8p16w551UYT0me9VVrR7kzEP51EAYMaUDTHrSE/edit?usp=drive_link) <b>
   - [Trello](https://trello.com/b/WWKjsUgg)
