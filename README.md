@@ -6,48 +6,13 @@
 - <b>[Resume](https://drive.google.com/file/d/1iXScnxJYOPUYUerh8MW2bMUN--yA4suG/view?usp=drive_link)
 - <b>Test Documentation</b>
   - [Check-lists](https://docs.google.com/spreadsheets/d/18DraS8p16w551UYT0me9VVrR7kzEP51EAYMaUDTHrSE/edit?usp=drive_link) <b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Trello](https://trello.com/b/WWKjsUgg)
   - [TestRail](https://www.dropbox.com/scl/fo/mx8tnm304zowge2rymi5c/AN0ZqqGq_rF3brUSkpgNX4U?rlkey=tjvucy2csm5mqq2jukdxm9kyv&st=izxy09ja&dl=0)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [Jira](https://www.dropbox.com/scl/fo/l9iay9509ftounq7m6pxe/AHN3L92pOVG1gSqAELFAmW8?rlkey=03t9fay81s0bplt27ihfuq9bu&st=szyhl030&dl=0)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ - <b>[Certificate](https://www.dropbox.com/scl/fo/ipjfrsdy0frfhh9pcktpq/ALGe5-FXVYc0dt8HjX2QB7A?rlkey=0u1b30vaw5l2tbapgj9nknado&st=ldwy0r53&dl=0)</b>
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [PEEI](https://peei.org.ua/uk)
