@@ -3,7 +3,7 @@
 
 <h2>👨‍💻 My Resume:</h2>
 
-- <b>[Resume](https://drive.google.com/file/d/1Ld6HGYc1zLFodxpCsO1AFrDLMpJQQpbE/view?usp=sharing)
+- <b>[Resume](https://drive.google.com/file/d/15Qs-HefGHd79y2JwfyoWFVKoAFREGFDD/view?usp=drive_link)
 - <b>Test Documentation</b>
   - [Check-list Layout Testing](https://docs.google.com/spreadsheets/d/18DraS8p16w551UYT0me9VVrR7kzEP51EAYMaUDTHrSE/edit?usp=drive_link) <b>
   - [Check-list Layout 1440, 1024, 768, 360](https://docs.google.com/spreadsheets/d/18DraS8p16w551UYT0me9VVrR7kzEP51EAYMaUDTHrSE/edit)
